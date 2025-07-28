@@ -5,8 +5,6 @@
   No momento estou estudando e busco o meu primeiro emprego na área de TI.
 </p>
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKamilly&show_icons=true&theme=dark&rank_icon=github)
 
 <p align="left">
