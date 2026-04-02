@@ -1,9 +1,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/iuricode/readme-template -->
 
-## 🖥️ Looking for <strong>Kamilly Mattana?</strong> Here I am!
-- 💼 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a> <br>
-- 🎓 Studying System of Information in PUCPR - Pontifícia Universidade Católica do Paraná.
+## 🖥️ Looking for Kamilly Mattana? Here I am!
+- 💼 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a>
+- 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
 - 🌱 Learning more about JavaScript, Java, Python.
 - 💛 I love Programing, Music, Games, Cats!
@@ -16,17 +16,9 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
-
 ## ⭐ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PKamillky&show_icons=true)
 
-
-## Sobre mim
-
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
 
 ## Minhas Skills
 
