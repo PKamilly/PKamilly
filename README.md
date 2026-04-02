@@ -3,8 +3,7 @@
 
 ## 💜 Kamilly Mattana? Here I am!
 🔭 Realise some academic projects like BattleShip in Python, Pokemon maneger in Java and a public safety in HTML, CSS, JavaScript.
-💬 Escreva uma mensagem para que as pessoas entrem em contato com você, ou te faça perguntas.
----
+💬 <link src="https://www.linkedin.com/in/kamilly-mattana/">LinkedIn</link>
 
 ## 🚀 Minhas Skills
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
@@ -14,10 +13,7 @@
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"/></code>
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" alt="MySQL"/></code>
 
----
-
 ## ⭐ GitHub Stats
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iuricode&show_icons=true)
 
 <h2 align="left"><strong>Kamilly Mattana</strong>? Here I am!</h2>
