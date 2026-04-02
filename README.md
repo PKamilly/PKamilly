@@ -1,9 +1,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/iuricode/readme-template -->
-<h2 align="left">Muito prazer sou <strong>Kamilly Mattana!</strong></h2>
-<p align="left"> 
-  No momento estou estudando e busco o meu primeiro emprego na área de TI.
-</p>
+<h2 align="left"><strong>Kamilly Mattana</strong>? Sim sou eu!</h2>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PKamilly&show_icons=true&theme=dark&rank_icon=github)
 
