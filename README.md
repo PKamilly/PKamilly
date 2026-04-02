@@ -2,8 +2,8 @@
 <!-- https://github.com/iuricode/readme-template -->
 <h2 align="left"><strong>Kamilly Mattana</strong>? Sim sou eu!</h2>
 <p align="left">
-  Programação;
-  Musica;
+  Programação;<br>
+  Musica;<br>
   Games;
 </p>
 
