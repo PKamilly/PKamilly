@@ -11,6 +11,7 @@
 
 
 <p align="left">
+  <strong>LANGUAGES:</strong><br>
   <a href="#" title="HTML">
   <img src="https://img.shields.io/badge/HTML-239120?style=flat-square&logo=html5&logoColor=white" alt="HTML"/></a>
   <a href="#" title="CSS">
