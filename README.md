@@ -4,9 +4,9 @@
 
 <p align="left">
   <strong>LOVE IT:</strong><br>
-  Programing;<br>
-  Music;<br>
-  Games.<br>
+  - Programing;<br>
+  - Music;<br>
+  - Games.<br>
 </p>
 
 
