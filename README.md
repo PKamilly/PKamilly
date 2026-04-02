@@ -5,7 +5,7 @@
 💬 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a> <br>
 🔭 I love Programing, Music, Games, Cats! <br>
 
-- 🇧🇷
+- 💛 I love Programing, Music, Games, Cats! <br>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Studying System of Information in PUCPR - Pontifical Catholic University of Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
