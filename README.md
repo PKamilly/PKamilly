@@ -1,9 +1,9 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/iuricode/readme-template -->
 
-## 🖥️ Kamilly Mattana? Here I am!
+## 🖥️ Looking for <strong>Kamilly Mattana?</strong> Here I am!
 - 💼 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a> <br>
-- 🎓 Studying System of Information in PUCPR - Pontifical Catholic University of Paraná.
+- 🎓 Studying System of Information in PUCPR - Pontifícia Universidade Católica do Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
 - 🌱 Learning more about JavaScript, Java, Python.
 - 💛 I love Programing, Music, Games, Cats!
