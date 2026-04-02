@@ -3,6 +3,7 @@
 
 ## 🖥️ Kamilly Mattana? Here I am!
 🔭 Realise some academic projects like BattleShip in Python, Pokemon maneger in Java and a public safety in HTML, CSS, JavaScript. <br>
+💾 I love Programing, Music, Games, Cats! <br>
 💬 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"/> LinkedIn
 
 ## 🚀 Languages
