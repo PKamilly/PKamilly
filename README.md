@@ -2,7 +2,7 @@
 <!-- https://github.com/iuricode/readme-template -->
 
 ## 🖥️ Looking for Kamilly Mattana? Here I am!
-- 💼 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a>
+- 💼 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kamilly-mattana/)
 - 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
 - 🌱 Learning more about JavaScript, Java, Python.
@@ -27,10 +27,3 @@
 
 ## ⭐ GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PKamillky&show_icons=true)
-
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
