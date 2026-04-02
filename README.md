@@ -6,7 +6,8 @@
   <strong>LOVE IT:</strong><br>
   - Programing;<br>
   - Music;<br>
-  - Games.<br>
+  - Games;<br>
+  - Cats.<br>
 </p>
 
 
