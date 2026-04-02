@@ -24,7 +24,7 @@
 </p>
 
 <p align="left">
-  💌 Entre em contato! ⤵️
+  💌 CONTACT ME! ⤵️
 </p>
 <p align="left">
   <a href="https://www.linkedin.com/in/kvmp/" title="LinkedIn">
