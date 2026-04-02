@@ -4,7 +4,7 @@
 <p align="left">
   Programação;<br>
   Musica;<br>
-  Games;
+  Games.<br>
 </p>
 
 
