@@ -2,7 +2,7 @@
 <!-- https://github.com/iuricode/readme-template -->
 
 ## 🖥️ Kamilly Mattana? Here I am!
-🔭 Realise some academic projects like BattleShip in Python, Pokemon maneger in Java and a public safety in HTML, CSS, JavaScript.
+🔭 Realise some academic projects like BattleShip in Python, Pokemon maneger in Java and a public safety in HTML, CSS, JavaScript. <br>
 💬 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"/> LinkedIn
 
 ## 🚀 Languages
