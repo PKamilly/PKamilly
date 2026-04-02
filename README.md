@@ -1,6 +1,12 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/iuricode/readme-template -->
 <h2 align="left"><strong>Kamilly Mattana</strong>? Sim sou eu!</h2>
+<p align="left">
+  Programação;
+  Musica;
+  Games;
+</p>
+
 
 <p align="left">
   <a href="#" title="HTML">
