@@ -1,5 +1,6 @@
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- https://github.com/iuricode/readme-template -->
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 <h2 align="left"><strong>Kamilly Mattana</strong>? Here I am!</h2>
 
 <p align="left">
