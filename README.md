@@ -10,7 +10,7 @@
   <a href="#" title="PYTHON">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="PYTHON"/></a>
   <a href="#" title="JAVA">
-  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=Java&logoColor=white" alt="JAVA"/></a>
+  <img src="https://img.shields.io/badge/Java-FF0000?style=flat-square&logo=java&logoColor=white" alt="JAVA"/></a>
 </p>
 
 <p align="left">
