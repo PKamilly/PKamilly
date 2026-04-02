@@ -2,7 +2,7 @@
 <!-- https://github.com/iuricode/readme-template -->
 
 ## 🖥️ Looking for Kamilly Mattana? Here I am!
-- 💼 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](https://www.linkedin.com/in/kamilly-mattana/)
+- 💼 [![Linkedin](https://img.shields.io/badge/-Kamilly-Mattana-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamilly-mattana/)](https://www.linkedin.com/in/kamilly-mattana/)
 - 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
 - 🌱 Learning more about JavaScript, Java, Python.
