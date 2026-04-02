@@ -2,14 +2,11 @@
 <!-- https://github.com/iuricode/readme-template -->
 
 ## 🖥️ Kamilly Mattana? Here I am!
-💬 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a> <br>
-🔭 I love Programing, Music, Games, Cats! <br>
-
-- 💛 I love Programing, Music, Games, Cats! <br>
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
+- 💼 <a href="https://www.linkedin.com/in/kamilly-mattana/" Tittle="LinkedIn"> LinkedIn </a> <br>
 - 🎓 Studying System of Information in PUCPR - Pontifical Catholic University of Paraná.
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a public safety in HTML, CSS, JavaScript.
 - 🌱 Learning more about JavaScript, Java, Python.
+- 💛 I love Programing, Music, Games, Cats!
 
 🚀 LANGUAGES: 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
