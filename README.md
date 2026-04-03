@@ -4,9 +4,9 @@
 ## ENGLISH VERSION
 ## 🖥️ Looking for Kamilly Mattana? Here I am!
 - 💼 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamilly-mattana/)
-- 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná.
-- 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a website about public safety in HTML, CSS, JavaScript.
-- 🌱 Learning more about JavaScript, Java and Python.
+- 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná;
+- 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a website about public safety in HTML, CSS, JavaScript;
+- 🌱 Learning more about JavaScript, Java and Python;
 - 💛 I love Programing, Music, Games and Cats!
 
 🚀 LANGUAGES: 
@@ -31,9 +31,9 @@
 ## VERSÃO BRASILEIRA
 ## 🖥️ Procurando pela Kamilly Mattana? Me achou!
 - 💼 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamilly-mattana/)
-- 🎓 Estudando Sistemas de Informação na PUCPR - Pontifícia Universidade Católica do Paraná.
-- 💾 Realizei alguns projetos acadêmicos como Batalha Naval em Python, Gerenciador de Pokemon em Java e um WebSite sobre Segurança Pública em HTMl, CSS e JavaScript.
-- 🌱 Aprendendo mais sobre JavaScript, Java e Python.
+- 🎓 Estudando Sistemas de Informação na PUCPR - Pontifícia Universidade Católica do Paraná;
+- 💾 Realizei alguns projetos acadêmicos como Batalha Naval em Python, Gerenciador de Pokemon em Java e um WebSite sobre Segurança Pública em HTMl, CSS e JavaScript;
+- 🌱 Aprendendo mais sobre JavaScript, Java e Python;
 - 💛 Amo Programar, Música, Jogos e Gatos!
 
 🚀 LINGUAGENS: 
