@@ -7,7 +7,7 @@
 - 🎓 Studying Information Systems in PUCPR - Pontifícia Universidade Católica do Paraná;
 - 💾 I realised some academic projects like BattleShip in Python, Pokemon manager in Java and a website about public safety in HTML, CSS, JavaScript;
 - 🌱 Learning more about JavaScript, Java and Python;
-- 💛 I love Programing, Music, Games and Cats!
+- 💛 I love Programing, Musics, Games and Cats!
 
 🚀 LANGUAGES: 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
@@ -34,7 +34,7 @@
 - 🎓 Estudando Sistemas de Informação na PUCPR - Pontifícia Universidade Católica do Paraná;
 - 💾 Realizei alguns projetos acadêmicos como Batalha Naval em Python, Gerenciador de Pokemon em Java e um WebSite sobre Segurança Pública em HTMl, CSS e JavaScript;
 - 🌱 Aprendendo mais sobre JavaScript, Java e Python;
-- 💛 Amo Programar, Música, Jogos e Gatos!
+- 💛 Amo Programar, Músicas, Jogos e Gatos!
 
 🚀 LINGUAGENS: 
 <code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python"/></code>
