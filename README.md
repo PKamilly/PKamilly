@@ -29,7 +29,7 @@
 ---
 
 ## VERSÃO BRASILEIRA
-## 🖥️ Procurando pela Kamilly Mattana? Me achou!
+## 🖥️ Procurando por Kamilly Mattana? Me achou!
 - 💼 ![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamilly-mattana/)
 - 🎓 Estudando Sistemas de Informação na PUCPR - Pontifícia Universidade Católica do Paraná;
 - 💾 Realizei alguns projetos acadêmicos como Batalha Naval em Python, Gerenciador de Pokemon em Java e um WebSite sobre Segurança Pública em HTMl, CSS e JavaScript;
